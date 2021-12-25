@@ -5,7 +5,7 @@ description = ""
 authors = ["Nonaka Kenya <k.nonaka@opt.ne.jp>"]
 
 [tool.poetry.dependencies]
-python = "=3.9.9"
+python = "3.9.*"
 matplotlib = "^3.5.1"
 numpy = "^1.21.5"
 pandas = "^1.3.5"

@@ -223,8 +223,8 @@ python-versions = ">=3.6"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "=3.9.7"
-content-hash = "3bf1788e21ee45e06caf43de82af38ea9e792479ed9ce590e5488ecfc38d4942"
+python-versions = "3.9.*"
+content-hash = "a0b804f3f80f3166c5dc48848824296378d47ef1b9443fc641d6d36a86b33a2a"
 
 [metadata.files]
 colorama = [
